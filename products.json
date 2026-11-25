@@ -1,0 +1,8 @@
+{
+  "store": {
+    "name": "Toko",
+    "greeting": "Selamat datang di toko saya.",
+    "whatsapp": ""
+  },
+  "products": []
+}
